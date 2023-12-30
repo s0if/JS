@@ -1,0 +1,26 @@
+.demo{
+    width: fit-content;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    margin:auto;
+    background-color:teal;
+    color:white;
+    padding:1rem;
+    border: 0.5rem solid rgba(51, 204, 51,0.5);
+    border-radius: 1rem;
+}
+.vip{
+    width: fit-content;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    margin:auto;
+    background-color:teal;
+    color:white;
+    padding:1rem;
+    border: 0.5rem solid rgba(51, 204, 51,0.5);
+    border-radius: 1rem;
+}

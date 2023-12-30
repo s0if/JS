@@ -1,0 +1,8 @@
+var first=document.querySelector(".first")
+first.classList.add("demo")
+console.log(first.classList.add("demo"))
+var hed=document.querySelector("h1")
+hed.classList.add("vip")
+console.log(hed.classList.add("vip"))
+hed.classList.remove("vip")
+console.log(hed.classList.remove("vip"))
